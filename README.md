@@ -1,5 +1,8 @@
 
 # 🫧🍏 Machine Learning Foundations Portfolio ☃️🎐
+
+---
+
 # 📊 [Government Confidence and Corruption Perception ML Model](https://github.com/maggieyung/ecornell-portfolio/blob/main/DefineAndSolveMLProblem.ipynb)
 
 
@@ -15,11 +18,12 @@ This was the final project submitted for Break Through Tech's Machine Learning F
 
 **Contributors:** Maggie Yung ([@maggieyung](https://github.com/maggieyung)), Jose Cruz ([@Jose-Gael-Cruz-Lopez](https://github.com/Jose-Gael-Cruz-Lopez))
 
+
+
 ## 🌐 Relevance
 
 This supervised ML regression problem holds real-world relevance because predicting government trust and corruption perceptions helps identify brewing social crises. The insights gained from these models could provide significant value to multiple stakeholders: NGOs could target interventions in regions where confidence is dropping, governments could monitor policy impacts in real-time and benchmark countries against global trends, and international organizations could assess region political stability and plan aid/support accordingly.
 
----
 
 ## 🔧 Toolkit
 - **Languages:** Python
@@ -70,7 +74,6 @@ This supervised ML regression problem holds real-world relevance because predict
 - Model 1: Selected Random Forest based on lowest validation MAE
 - Model 2: Selected Decision Tree based on best metrics across RMSE, R², and MAE
 
----
 
 ## 📊 Analysis
 
@@ -89,7 +92,6 @@ Across both models, we found consistent patterns regarding which features most i
 - **Perceptions of Corruption** and **Freedom to Make Choices** are inversely related to government confidence
 - **Healthy Life Expectancy** is a reliable proxy for overall government effectiveness
 - **Life Ladder** (overall life satisfaction) reflects satisfaction with government performance
-
 
 ### Model Performance Comparison
 
@@ -112,7 +114,6 @@ Across both models, we found consistent patterns regarding which features most i
 | Gradient Boosting | 0.0679 | -3.1885 | 0.0548 |
 | Random Forest | 0.0383 | -0.3363 | 0.0353 |
 
----
 
 ## 📈 Key Metrics
 
